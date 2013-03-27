@@ -1,0 +1,23 @@
+body{background-color: #999999;}
+
+.sliderarea{
+	position:absolute;
+	top:170px;
+	left: 390px;
+	width:500px;
+	height:500px;
+	padding-left: 112px;
+	padding-top: 140px;
+	background-image: url("i/sliderbg.png");
+	background-repeat:no-repeat;
+	cursor: pointer;
+}
+.num{
+	margin-left: 148px;
+	height:20px;
+	width:47px;
+}
+#share{
+	left:300px;
+}
+
