@@ -155,6 +155,7 @@ $(document).ready(function(){
 	
 		<p></p>
       </div>
+<div style="font-family:sans-serif;font-size:small;color:#bbbbbb;">see also: huehefner.net | by: dennisdebel.nl | source: https://github.com/dennisdebel/hue</div>
       <!--<div class="content-box-bottom">by dennisdebel.nl and chiaraarkesteijn.nl</div>-->
 
 <p></p>
